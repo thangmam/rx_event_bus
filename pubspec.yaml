@@ -1,10 +1,10 @@
 name: rx_event_bus
 description: A EventBus using RxDart
-version: 2.1.0
-homepage: https://github.com/flutter-fast-kit/rx_event_bus
+version: 3.0.0
+homepage: https://github.com/thangmam/rx_event_bus
 
 environment:
-  sdk: '>=2.12.0 <3.0.0'
+  sdk: '>=3.0.0 <4.0.0'
 
 dependencies:
   rxdart: ^0.27.7
